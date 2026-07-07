@@ -35,9 +35,6 @@ The following tools were used during this project:
 | Gmail                              | Sending and receiving sample emails between test accounts.                                                          |
 | Gmail – Show Original              | Extracting complete email headers and authentication results.                                                       |
 | Google Admin Toolbox Messageheader | Analyzing email headers, SPF, DKIM, DMARC, and routing information.                                                 |
-| MXToolbox Header Analyzer          | Reviewing authentication results and validating email header information.                                           |
-| GitHub                             | Version control and project repository hosting.                                                                     |
-| Microsoft Word / Canva             | Preparing the final report in PDF format.                                                                           |
 
 
 ### Analysis Methodology
