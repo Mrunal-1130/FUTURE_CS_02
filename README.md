@@ -4,7 +4,6 @@
 
 This project demonstrates the process of identifying and analyzing phishing emails through email header analysis, sender domain verification, and phishing indicator identification. Four email samples were analyzed, including three simulated phishing emails and one legitimate business email. The objective is to understand common phishing techniques and improve email security awareness.
 
----
 
 ### Project Objectives
 
@@ -16,7 +15,6 @@ This project demonstrates the process of identifying and analyzing phishing emai
 * Document findings in a structured report.
 * Develop phishing prevention and awareness guidelines.
 
----
 
 ### Email Samples
 
@@ -27,7 +25,6 @@ This project demonstrates the process of identifying and analyzing phishing emai
 | Fake Package Delivery Notification      | Phishing   |
 | Project Status Meeting Scheduled        | Legitimate |
 
----
 
 ### Tools Used
 
@@ -42,7 +39,6 @@ The following tools were used during this project:
 | GitHub                             | Version control and project repository hosting.                                                                     |
 | Microsoft Word / Canva             | Preparing the final report in PDF format.                                                                           |
 
----
 
 ### Analysis Methodology
 
@@ -105,7 +101,6 @@ Security recommendations were prepared to help users recognize and avoid phishin
 * Suspicious hyperlinks redirected users to unofficial websites that could be used for credential theft.
 * The legitimate email originated from the organization's official domain and contained normal business communication without phishing indicators.
 
----
 
 ### Conclusion
 
